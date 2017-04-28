@@ -1,0 +1,6 @@
+只在Visual Studio Code中用过，使用第三方库，你需要引入对应库的*.d.ts文件，例如 JQuery 需要引入它对应的类型文件， 关于类型文件 http://definitelytyped.org/， 可以在这里下载:
+
+我建议用 https://github.com/typings/typings 去管理你的第三方库的类型文件。
+
+页面两种引用方式: /// <reference path="jquery/jquery.d.ts" />或者 import "jquery/jquery.d.ts"
+

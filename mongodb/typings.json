@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20170213133316"
+  },
+  "dependencies": {
+    "mongodb": "registry:npm/mongodb#2.1.0+20170211100415"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mongots",
+  "version": "1.0.0",
+  "description": "TypeScript And Nodejs Operate MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "june",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}

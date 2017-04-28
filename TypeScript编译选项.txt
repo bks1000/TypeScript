@@ -1,0 +1,9 @@
+TypeScript 编译选项
+http://www.w3cschool.cn/typescript/typescript-compiler-options.html
+
+常用编译选项
+
+1.编译时删除注释
+--removeComments	boolean	false	删除所有注释，除了以/!*开头的版权信息。
+示例：
+F:\HW\typescript> tsc --removeComments greeter.ts
